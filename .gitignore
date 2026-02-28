@@ -1,0 +1,27 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+
+# Kotlin/Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated folders
+captures/
+outputs/
+
+# Kotlin specific
+*.kotlin_module
